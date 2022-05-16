@@ -20,7 +20,6 @@ Android Studio
 
 Google Colab Notebook
 
-Kotlin
 
 # Google Colab Notebook link: 
 https://colab.research.google.com/drive/1cTENAd6YMN-AFXVOiuH0nfAVlFZhyg7j
